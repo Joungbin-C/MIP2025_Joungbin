@@ -91,7 +91,7 @@ To operate GPU, cuda and cuDNN must be installed.
 
     - Output should appear as shown below
 
-      ![cudnn](.\img\cudnn.png)
+      ![cudnn](https://github.com/Joungbin-C/MIP2025_Joungbin/blob/main/img/cudnn.png)
 
 
 
@@ -203,5 +203,6 @@ Before running it, make sure ZED sdk and libraries are all installed
 
 
       
+
 
 
