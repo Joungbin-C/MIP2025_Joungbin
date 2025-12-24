@@ -13,7 +13,7 @@
 | VRAM    | 16GB                                             | 16GB                                            | 48GB                                                         |
 | Driver  | Linux: 580.65.06<br />Windows: 580.88            | Linux: 580.65.06<br />Windows: 580.88           | Linux: 580.65.06<br />Windows: 580.88                        |
 
-You can run the [Isaac Sim Compatibility Checker][https://docs.isaacsim.omniverse.nvidia.com/latest/installation/install_workstation.html#isaac-sim-compatibility-checker] to check if your machine meets the system requirements and compatibility.
+You can run the [Isaac Sim Compatibility Checker](https://docs.isaacsim.omniverse.nvidia.com/latest/installation/install_workstation.html#isaac-sim-compatibility-checker) to check if your machine meets the system requirements and compatibility.
 
 
 
@@ -203,6 +203,7 @@ Before running it, make sure ZED sdk and libraries are all installed
 
 
       
+
 
 
 
