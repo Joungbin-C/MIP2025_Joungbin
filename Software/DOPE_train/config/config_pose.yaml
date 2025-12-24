@@ -1,0 +1,20 @@
+topic_camera: "/dope/webcam/image_raw"
+topic_camera_info: "/dope/webcam/camera_info"
+input_is_rectified: false
+
+downscale_height: 480
+
+draw_colors:
+  pallet: [0, 255, 0]
+
+class_ids:
+  pallet: 1
+
+dimensions:
+  pallet: [1.2132, 0.2111, 1.0029]
+
+threshold: 0.05
+thresh_angle: 0.5
+thresh_map: 0.01
+sigma: 3
+thresh_points: 0.1
