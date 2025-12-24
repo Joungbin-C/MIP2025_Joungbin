@@ -63,7 +63,7 @@ To operate GPU, cuda and cuDNN must be installed.
   - On command Prompt, run `nvdia-smi`
   - CUDA Version(top-right) → Maximum compatible CUDA version
 
-  ![cuda](img\cuda.png](https://github.com/Joungbin-C/MIP2025_Joungbin/blob/main/img/cuda.png)
+  ![cuda](https://github.com/Joungbin-C/MIP2025_Joungbin/blob/main/img/cuda.png)
 
   - [Installation link](https://developer.nvidia.com/cuda-toolkit-archive)
 
@@ -203,4 +203,5 @@ Before running it, make sure ZED sdk and libraries are all installed
 
 
       
+
 
